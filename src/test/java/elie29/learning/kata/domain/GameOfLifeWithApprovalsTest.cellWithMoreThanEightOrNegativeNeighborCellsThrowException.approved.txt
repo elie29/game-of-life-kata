@@ -1,0 +1,6 @@
+[DEAD, -1] => null 
+[DEAD, 9] => null 
+[DEAD, 10] => null 
+[ALIVE, -1] => null 
+[ALIVE, 9] => null 
+[ALIVE, 10] => null 

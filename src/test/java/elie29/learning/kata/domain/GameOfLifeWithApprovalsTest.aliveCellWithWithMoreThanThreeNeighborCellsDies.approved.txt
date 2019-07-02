@@ -1,0 +1,5 @@
+[ALIVE, 4] => DEAD 
+[ALIVE, 5] => DEAD 
+[ALIVE, 6] => DEAD 
+[ALIVE, 7] => DEAD 
+[ALIVE, 8] => DEAD 
